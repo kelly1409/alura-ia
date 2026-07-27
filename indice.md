@@ -1,6 +1,6 @@
-# 📖 Guía de Uso - Clínica Salud IA
+# 📖 Guía de Uso - Consultas IA
 
-Bienvenido a **Clínica Salud IA**, un agente inteligente basado en arquitectura **RAG (Retrieval-Augmented Generation)**, desarrollado para responder preguntas utilizando la información contenida en documentos PDF.
+Bienvenido a **Consultas de documentos IA**, un agente inteligente basado en arquitectura **RAG (Retrieval-Augmented Generation)**, desarrollado para responder preguntas utilizando la información contenida en documentos PDF.
 
 ---
 
@@ -51,13 +51,13 @@ Cuando el procesamiento haya finalizado, podrás escribir preguntas relacionadas
 
 Ejemplos:
 
-* ¿Cuál es el objetivo principal del documento?
+* 1
 ![alt text](image.png)
 
-* ¿Qué políticas de privacidad se describen?
+* 2
 ![alt text](image-1.png)
 
-* ¿Cual es el contacto de la clinica?
+* 3
 ![alt text](image-2.png)
 ---
 

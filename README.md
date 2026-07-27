@@ -65,7 +65,7 @@ La aplicación implementa el siguiente flujo:
 # 📂 Estructura del Proyecto
 
 ```text
-ALURA-AGENTE-CLINICA
+ALURA-IA
 │
 ├── app.py                      # Aplicación principal Streamlit
 │
@@ -75,8 +75,6 @@ ALURA-AGENTE-CLINICA
 │   ├── vectorstore.py          # Creación de base vectorial FAISS
 │   └── ui.py                   # Componentes de interfaz
 │
-├── documentos
-│   └── politica_privacidad.pdf # Documento utilizado como fuente
 │
 ├── screenshots                 # Capturas de pantalla del proyecto
 │
@@ -194,7 +192,7 @@ git clone https://github.com/usuario/alura-agente-clinica.git
 Ingresar al proyecto:
 
 ```bash
-cd alura-agente-clinica
+cd alura-ia
 ```
 
 ---
@@ -311,13 +309,13 @@ Respuesta generada:
 
 Agregar imágenes mostrando:
 
-* ¿Cuál es el objetivo principal del documento?
+* 1
 ![alt text](image.png)
 
-* ¿Qué políticas de privacidad se describen?
+* 2
 ![alt text](image-1.png)
 
-* ¿Cual es el contacto de la clinica?
+* 3
 ![alt text](image-2.png)
 
 ```
