@@ -14,6 +14,15 @@ El usuario puede cargar documentos PDF, realizar consultas sobre su contenido y 
 
 ---
 
+# 🌐 Acceso a la Aplicación
+
+La aplicación se encuentra disponible en el siguiente enlace:
+
+**https://alura-ia-np3uszmxmqhkobvjr4sax9.streamlit.app/**
+
+No es necesario instalar ningún software adicional. Solo debes acceder desde tu navegador web.
+
+
 # 🏗 Arquitectura de la Solución
 
 La aplicación implementa el siguiente flujo:
@@ -186,7 +195,7 @@ Utilizado para dividir documentos grandes en fragmentos optimizados para la recu
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/alura-agente-clinica.git
+git clone https://github.com/usuario/alura-ia.git
 ```
 
 Ingresar al proyecto:
@@ -332,7 +341,7 @@ La integración de **Groq**, **LangChain**, **FAISS** y **Hugging Face Embedding
 
 # 👨‍💻 Autor
 
-**Rodrigo Antonelli**
+**Kelly Palacios**
 
 Proyecto desarrollado como parte del:
 

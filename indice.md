@@ -8,7 +8,7 @@ Bienvenido a **Consultas de documentos IA**, un agente inteligente basado en arq
 
 La aplicación se encuentra disponible en el siguiente enlace:
 
-**https://alura-agente-clinica-ia-xa3cgsjzknnhprrcdvontb.streamlit.app/**
+**https://alura-ia-np3uszmxmqhkobvjr4sax9.streamlit.app/**
 
 No es necesario instalar ningún software adicional. Solo debes acceder desde tu navegador web.
 
@@ -92,6 +92,6 @@ Si la información no existe dentro del documento, el agente indicará que no di
 
 # 👨‍💻 Autor
 
-**Rodrigo Antonelli**
+**Kelly Palacios**
 
 Proyecto desarrollado como parte del **Challenge Final - Alura Agentes Inteligentes (2026)**.
